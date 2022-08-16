@@ -1,6 +1,6 @@
 Code, reference pictures, CAD files for the IR controller featured here:
 
-[Building an energy saver AC controller with 0 prior knowledge.](robsware)
+[Building an energy saving AC controller with 0 prior knowledge.](https://robsware.github.io/2022/06/12/accontroller)
 
 The logic tree is:
 
