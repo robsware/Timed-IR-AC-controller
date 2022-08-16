@@ -10,10 +10,11 @@ If it's daylight:
         If no movement, start loop for 30 minutes:
             If movement is detected in those 30 minutes, reset loop:
                 If no movement in 30 minutes, send AC turn off signal
-
-The code is configured to run every 10 seconds instead of 30 minutes for demo purposes.    
 ```
 
+The code is configured to run every 10 seconds instead of 30 minutes for demo purposes.    
+
+Wiring:
 ![](wiring.png)
 
 Reference pictures:
